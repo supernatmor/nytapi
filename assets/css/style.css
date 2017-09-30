@@ -1,6 +1,11 @@
 body {
         background-color: #b7cbd5;
     }
+h2{
+    font-weight: bold;
+    font-size: 46px;
+}
+
 
     .footer {
         height: 20px;
@@ -11,7 +16,7 @@ body {
         margin-top: 15px;
         padding-top: 15px;
         padding-bottom: 25px;
-        width: 55%;
+        width: 65%;
     }
 
     .jumbotron {
@@ -47,4 +52,25 @@ body {
     .btn-default {
         background: #95a5a6;
         color: white;
+    }
+
+    a {
+        color: #73c7b4;
+        font-size: 10px;
+    }
+
+    .title {
+        color: #2c3e50;
+        font-size: 18px; 
+        font-weight: bold; 
+    }
+
+    .section {
+        font-size: 10px;
+
+    }
+
+    .pubDate {
+        font-size: 10px;
+
     }
